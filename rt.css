@@ -4,3 +4,8 @@
     background-color: red;
     position: relative;
 }
+
+#main-heading {
+  text-align: center;
+  margin-top: 20px;
+}
